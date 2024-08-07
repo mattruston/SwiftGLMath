@@ -1,4 +1,4 @@
-// swift-tools-version:4.0
+// swift-tools-version: 5.10
 
 // Copyright (c) 2015-2016 David Turnbull
 //
